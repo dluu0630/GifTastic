@@ -1,0 +1,30 @@
+body {
+    background: url("https://www.famouslogos.net/images/superhero-logos/green-lantern-logo.jpg")
+}
+.ratings {
+    color: green;
+    font-family: 'Artifika', serif;
+    font-size: 24px;
+}
+
+h1 {
+    color: skyblue;
+    font-size: 60px;
+    font-family: 'Artifika', serif;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: maroon;
+    color: skyblue;
+}
+
+
+.form-control {
+    width: 30%;
+}
+
+#add {
+    font-size: 24px;
+    color: skyblue;
+}
